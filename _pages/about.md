@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-About Li Denghao.
+Undergraduate at Tsinghua University
