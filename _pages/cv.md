@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electronic Engineering, Tsinghua University, 2019 (expected)
+* B.S. in Electronic Engineering, Tsinghua University, 2019
+* MRes in Bioengineering, Imperial College London, 2020 (expected)
 
 <!-- Work experience
 ======
