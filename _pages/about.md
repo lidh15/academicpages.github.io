@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Master student at Imperial College London.
+Master student at Imperial College London
