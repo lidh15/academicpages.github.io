@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Undergraduate at Tsinghua University
+Master student at Imperial College London.
